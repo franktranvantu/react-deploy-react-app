@@ -1,13 +1,13 @@
 {
-  "main.css": "/course-directory/static/css/main.6c623051.chunk.css",
-  "main.js": "/course-directory/static/js/main.b9cce98e.chunk.js",
-  "main.js.map": "/course-directory/static/js/main.b9cce98e.chunk.js.map",
-  "static/js/1.b50eca25.chunk.js": "/course-directory/static/js/1.b50eca25.chunk.js",
-  "static/js/1.b50eca25.chunk.js.map": "/course-directory/static/js/1.b50eca25.chunk.js.map",
-  "runtime~main.js": "/course-directory/static/js/runtime~main.527751ac.js",
-  "runtime~main.js.map": "/course-directory/static/js/runtime~main.527751ac.js.map",
-  "static/css/main.6c623051.chunk.css.map": "/course-directory/static/css/main.6c623051.chunk.css.map",
-  "index.html": "/course-directory/index.html",
-  "precache-manifest.54c779a3e735e90962ad1e3e6630582e.js": "/course-directory/precache-manifest.54c779a3e735e90962ad1e3e6630582e.js",
-  "service-worker.js": "/course-directory/service-worker.js"
+  "main.css": "/react-deploy-react-app/static/css/main.6c623051.chunk.css",
+  "main.js": "/react-deploy-react-app/static/js/main.b9cce98e.chunk.js",
+  "main.js.map": "/react-deploy-react-app/static/js/main.b9cce98e.chunk.js.map",
+  "static/js/1.b50eca25.chunk.js": "/react-deploy-react-app/static/js/1.b50eca25.chunk.js",
+  "static/js/1.b50eca25.chunk.js.map": "/react-deploy-react-app/static/js/1.b50eca25.chunk.js.map",
+  "runtime~main.js": "/react-deploy-react-app/static/js/runtime~main.d00aaf72.js",
+  "runtime~main.js.map": "/react-deploy-react-app/static/js/runtime~main.d00aaf72.js.map",
+  "static/css/main.6c623051.chunk.css.map": "/react-deploy-react-app/static/css/main.6c623051.chunk.css.map",
+  "index.html": "/react-deploy-react-app/index.html",
+  "precache-manifest.3cdf2fab41fed3e56dfc928aef57bfa2.js": "/react-deploy-react-app/precache-manifest.3cdf2fab41fed3e56dfc928aef57bfa2.js",
+  "service-worker.js": "/react-deploy-react-app/service-worker.js"
 }
