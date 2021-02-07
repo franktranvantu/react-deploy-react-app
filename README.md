@@ -12,3 +12,6 @@ Steps:
     `"predeploy": "npm run build"`
     
      `"deploy": "gh-pages -d build"`
+4. Deploy the application
+
+    `npm run deploy`
