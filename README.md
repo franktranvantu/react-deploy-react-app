@@ -1,14 +1,13 @@
-Before deploying a React application, you will need a production-ready build of the app. 
-
-In this section, we'll create a static build that will optimize React code to run in browsers and download as fast as possible.
+Learn how to deploy your React app with minimal configuration, using Now.
 
 Steps:
-1. Build the production application 
+1. Install now dependency
     
-    `npm run build`
-2. Install serve dependency
+    `npm install -g now`
+2. Create file now.json
+3. Add now-build into package.json
 
-    `npm install -g serve`
-3. Deploy application to the server
+    `"now-build": "react-scripts build && mv build dist"`
+4. Deploy the application
     
-    `serve -s build`
+    `now`
