@@ -1,14 +1,12 @@
-Before deploying a React application, you will need a production-ready build of the app. 
-
-In this section, we'll create a static build that will optimize React code to run in browsers and download as fast as possible.
+Deploy and host your React app with Netlify, a powerful service that automates builds, deployments, and manages your websites and web apps.
 
 Steps:
 1. Build the production application 
     
     `npm run build`
-2. Install serve dependency
+2. Install netlify-cli dependency
 
-    `npm install -g serve`
+    `npm install -g netlify-cli`
 3. Deploy application to the server
     
-    `serve -s build`
+    `netlify deploy`
