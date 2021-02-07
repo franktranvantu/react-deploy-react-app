@@ -1,14 +1,14 @@
-Before deploying a React application, you will need a production-ready build of the app. 
-
-In this section, we'll create a static build that will optimize React code to run in browsers and download as fast as possible.
+Learn how to deploy and host a React app on GitHub Pages, a free hosting solution provided by GitHub that lets others view your repository as a static website.
 
 Steps:
-1. Build the production application 
+1. Add homepage to package.json
     
-    `npm run build`
-2. Install serve dependency
+    `"homepage": "http://myname.github.io/myapp"`
+2. Install gh-pages dependency
 
-    `npm install -g serve`
-3. Deploy application to the server
+    `npm install --save gh-pages`
+3. Add predeploy and deploy to package.json
     
-    `serve -s build`
+    `"predeploy": "npm run build"`
+    
+     `"deploy": "gh-pages -d build"`
